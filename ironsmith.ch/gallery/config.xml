@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle=""
+	useThumbDots="true"
+	showExpandButton="false"
+	showOpenButton="false"
+	showThumbsButton="false"
+	thumbFrameColor="rgba(255,255,255,.5)"
+	backgroundColor="rgba(189,189,189,0)"
+
+>
+  <image imageURL="images/schenk.jpg"
+	thumbURL="thumbs/schenk.jpg"
+	linkURL="images/schenk.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\schenk.jpg">
+    <title><![CDATA[<a href='http://www.schenk-bar.ch' target='_blank'>www.schenk-bar.ch</a>]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/schlosser.jpg"
+	thumbURL="thumbs/schlosser.jpg"
+	linkURL="images/schlosser.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\schlosser.jpg">
+    <title><![CDATA[<a href='http://www.schlosser-stubenwagen.ch'>www.schlosser-stubenwagen.ch</a>]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bg.jpg"
+	thumbURL="thumbs/bg.jpg"
+	linkURL="images/bg.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\bg.jpg">
+    <title><![CDATA[<a href='http://www.barbara-gruetter.ch'>www.barbara-gruetter.ch</a>]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/saurer.jpg"
+	thumbURL="thumbs/saurer.jpg"
+	linkURL="images/saurer.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\saurer.jpg">
+    <title><![CDATA[<a href='http://www.saurer-bau.ch'>www.saurer-bau.ch</a>]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/stella.jpg"
+	thumbURL="thumbs/stella.jpg"
+	linkURL="images/stella.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\stella.jpg">
+    <title><![CDATA[www.stelladellago.ch]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

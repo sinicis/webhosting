@@ -1,0 +1,65 @@
+body {
+/* background-color: #fff;*/
+ background-image: url(../images/bg/fels/lrock048.jpg);
+}
+
+div {
+ margin: 10px 10px 10px 10px;
+}
+
+#allinone {
+/* border-top: 1px solid #666;
+ border-bottom: 1px solid #666;
+  border: 1px solid #666; */
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 1.2em;
+ color: #333;
+ width: 900px;
+ position:absolute;  
+ left:50%;  
+ /* top:50%;  */
+ top:0px;
+ margin: 0 0 0 -450px;  
+}
+
+#header {
+ background: #fff;
+ border: 2px solid #858786;
+ text-align: center;
+ height: 235.2px;
+/* height: auto;*/
+}
+
+#menu {
+ background: #ffdd00;
+ border: 2px solid #858786;
+ text-align: center;
+ height: 60px;
+}
+
+#content {
+ background: #FFF;
+ border: 2px solid #858786;
+ padding: 0 10px 10px 10px; /* top-padding: 0 */
+ min-height: 400px;
+ color: #858786;
+/* min-height: 532px; /* 800 - 120 - 30 - 30 - 5*10 (margin) - 4*2 (border) - 10 (padding) - 2*10 (hrs) */
+}
+
+#footer {
+ border: 2px solid #858786;
+ height: 30px;
+/* position: absolute;
+ bottom: 0; */
+ background: #ffdd00;
+ /*width: 1078px; /* -20px margin & -2px border */
+}
+
+h1 {
+ text-shadow: 0px 5px 5px #858786; /*shadow,  vertical shadow, blur distance, color of the shadow */
+}
+
+h2 {
+ text-shadow: 0px 5px 5px #858786; /*shadow,  vertical shadow, blur distance, color of the shadow */
+ margin: 10px;
+}

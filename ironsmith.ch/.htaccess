@@ -1,0 +1,8 @@
+
+
+AddHandler application/x-httpd-php55 .php
+
+<IfModule mod_suphp.c>
+	suPHP_ConfigPath "/home/ironsmit/etc/php_settings/php55"
+</IfModule>
+
