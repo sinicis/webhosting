@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/11.11.2015 449 m.jpg"
+	thumbURL="thumbs/11.11.2015 449 m.jpg"
+	linkURL="images/11.11.2015 449 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 449 m.JPG">
+    <title><![CDATA[Strassenbeleuchtung Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1486 m.jpg"
+	thumbURL="thumbs/11.11.2015 1486 m.jpg"
+	linkURL="images/11.11.2015 1486 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1486 m.JPG">
+    <title><![CDATA[Strassenbeleuchtung Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1623 m.jpg"
+	thumbURL="thumbs/11.11.2015 1623 m.jpg"
+	linkURL="images/11.11.2015 1623 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1623 m.JPG">
+    <title><![CDATA[Strassenbeleuchtung Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1480 m.jpg"
+	thumbURL="thumbs/11.11.2015 1480 m.jpg"
+	linkURL="images/11.11.2015 1480 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1480 m.JPG">
+    <title><![CDATA[Strassenbeleuchtung Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

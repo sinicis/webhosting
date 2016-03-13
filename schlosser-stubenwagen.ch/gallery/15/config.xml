@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(243,193,171,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/15_1.jpg"
+	thumbURL="thumbs/15_1.jpg"
+	linkURL="images/15_1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_2.jpg"
+	thumbURL="thumbs/15_2.jpg"
+	linkURL="images/15_2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_3.jpg"
+	thumbURL="thumbs/15_3.jpg"
+	linkURL="images/15_3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_3.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_4.jpg"
+	thumbURL="thumbs/15_4.jpg"
+	linkURL="images/15_4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_4.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_5.jpg"
+	thumbURL="thumbs/15_5.jpg"
+	linkURL="images/15_5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_5.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_6.jpg"
+	thumbURL="thumbs/15_6.jpg"
+	linkURL="images/15_6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_6.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_7.jpg"
+	thumbURL="thumbs/15_7.jpg"
+	linkURL="images/15_7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_7.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15_8.jpg"
+	thumbURL="thumbs/15_8.jpg"
+	linkURL="images/15_8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\15\15_8.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

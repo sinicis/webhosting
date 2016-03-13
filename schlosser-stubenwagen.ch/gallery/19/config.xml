@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(243,193,171,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/19.jpg"
+	thumbURL="thumbs/19.jpg"
+	linkURL="images/19.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\19\19.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_1.jpg"
+	thumbURL="thumbs/19_1.jpg"
+	linkURL="images/19_1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\19\19_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_2.jpg"
+	thumbURL="thumbs/19_2.jpg"
+	linkURL="images/19_2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\19\19_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_3.jpg"
+	thumbURL="thumbs/19_3.jpg"
+	linkURL="images/19_3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\19\19_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

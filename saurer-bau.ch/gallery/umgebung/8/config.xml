@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/saurer 006 m.jpg"
+	thumbURL="thumbs/saurer 006 m.jpg"
+	linkURL="images/saurer 006 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\saurer 006 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27.07.2015 002 m.jpg"
+	thumbURL="thumbs/27.07.2015 002 m.jpg"
+	linkURL="images/27.07.2015 002 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\27.07.2015 002 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/saurer 005 m.jpg"
+	thumbURL="thumbs/saurer 005 m.jpg"
+	linkURL="images/saurer 005 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\saurer 005 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27.07.2015 004 m.jpg"
+	thumbURL="thumbs/27.07.2015 004 m.jpg"
+	linkURL="images/27.07.2015 004 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\27.07.2015 004 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

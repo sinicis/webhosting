@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ Feb 2015 457.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 457.jpg"
+	linkURL="images/mini_ Feb 2015 457.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ Feb 2015 457.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 455.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 455.jpg"
+	linkURL="images/mini_ Feb 2015 455.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ Feb 2015 455.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 456.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 456.jpg"
+	linkURL="images/mini_ Feb 2015 456.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ Feb 2015 456.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 264.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 264.jpg"
+	linkURL="images/mini_ 08.01.2015 264.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 264.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 594.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 594.jpg"
+	linkURL="images/mini_ 08.01.2015 594.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 594.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 598.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 598.jpg"
+	linkURL="images/mini_ 08.01.2015 598.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 598.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 600.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 600.jpg"
+	linkURL="images/mini_ 08.01.2015 600.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 600.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 601.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 601.jpg"
+	linkURL="images/mini_ 08.01.2015 601.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 601.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 771.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 771.jpg"
+	linkURL="images/mini_ 08.01.2015 771.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 771.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 776.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 776.jpg"
+	linkURL="images/mini_ 08.01.2015 776.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 776.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 777.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 777.jpg"
+	linkURL="images/mini_ 08.01.2015 777.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 777.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 262.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 262.jpg"
+	linkURL="images/mini_ 08.01.2015 262.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Marco2\Desktop\website simu\gallery\hochbau\1\images\mini_ 08.01.2015 262.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

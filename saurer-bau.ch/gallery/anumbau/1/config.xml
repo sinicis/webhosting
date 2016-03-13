@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer Bau"
+	useThumbDots="true"
+	showThumbsButton="false"
+	showExpandButton="false"
+	backgroundColor="rgba(190,190,190,1)"
+	showOpenButton="false"
+	textColor="rgba(255,221,0,1)"
+	thumbFrameColor="rgba(255,221,0,.5)"
+
+>
+  <image imageURL="images/mini_ Feb 2015 466.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 466.jpg"
+	linkURL="images/mini_ Feb 2015 466.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\Anbau Jordi Oberhofen\mini_ Feb 2015 466.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 467.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 467.jpg"
+	linkURL="images/mini_ Feb 2015 467.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\Anbau Jordi Oberhofen\mini_ Feb 2015 467.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 469.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 469.jpg"
+	linkURL="images/mini_ Feb 2015 469.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\Anbau Jordi Oberhofen\mini_ Feb 2015 469.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

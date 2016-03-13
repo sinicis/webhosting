@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ Feb 2015 452.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 452.jpg"
+	linkURL="images/mini_ Feb 2015 452.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ Feb 2015 452.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 451.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 451.jpg"
+	linkURL="images/mini_ Feb 2015 451.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ Feb 2015 451.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 064.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 064.jpg"
+	linkURL="images/mini_ 08.01.2015 064.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 064.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 065.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 065.jpg"
+	linkURL="images/mini_ 08.01.2015 065.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 065.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 080.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 080.jpg"
+	linkURL="images/mini_ 08.01.2015 080.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 080.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 083.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 083.jpg"
+	linkURL="images/mini_ 08.01.2015 083.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 083.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 084.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 084.jpg"
+	linkURL="images/mini_ 08.01.2015 084.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 084.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 050.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 050.jpg"
+	linkURL="images/mini_ 08.01.2015 050.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 050.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 051.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 051.jpg"
+	linkURL="images/mini_ 08.01.2015 051.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 051.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 063.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 063.jpg"
+	linkURL="images/mini_ 08.01.2015 063.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\4_Garage Solca Sigriswil\mini_ 08.01.2015 063.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

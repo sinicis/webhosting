@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/27.07.2015 006 m.jpg"
+	thumbURL="thumbs/27.07.2015 006 m.jpg"
+	linkURL="images/27.07.2015 006 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\27.07.2015 006 m.JPG">
+    <title><![CDATA[Entwässerungsrinne Alpenstrasse]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1186 m.jpg"
+	thumbURL="thumbs/11.11.2015 1186 m.jpg"
+	linkURL="images/11.11.2015 1186 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1186 m.JPG">
+    <title><![CDATA[Entwässerungsrinne Alpenstrasse]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

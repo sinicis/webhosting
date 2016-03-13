@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/Sitzplatz Schmocker 1.jpg"
+	thumbURL="thumbs/Sitzplatz Schmocker 1.jpg"
+	linkURL="images/Sitzplatz Schmocker 1.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Kundendienst\Gartensitzplatz Schmocker\Sitzplatz Schmocker 1.JPG">
+    <title><![CDATA[Sitzplatz Schmocker 1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Sitzplatz Schmocker 2.jpg"
+	thumbURL="thumbs/Sitzplatz Schmocker 2.jpg"
+	linkURL="images/Sitzplatz Schmocker 2.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Kundendienst\Gartensitzplatz Schmocker\Sitzplatz Schmocker 2.JPG">
+    <title><![CDATA[Sitzplatz Schmocker 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

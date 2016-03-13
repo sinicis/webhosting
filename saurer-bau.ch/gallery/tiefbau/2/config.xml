@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/saurer bau 017 m.jpg"
+	thumbURL="thumbs/saurer bau 017 m.jpg"
+	linkURL="images/saurer bau 017 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 017 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/saurer bau 020 m.jpg"
+	thumbURL="thumbs/saurer bau 020 m.jpg"
+	linkURL="images/saurer bau 020 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 020 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/saurer bau 024 m.jpg"
+	thumbURL="thumbs/saurer bau 024 m.jpg"
+	linkURL="images/saurer bau 024 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 024 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 212 m.jpg"
+	thumbURL="thumbs/11.11.2015 212 m.jpg"
+	linkURL="images/11.11.2015 212 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 212 m.JPG">
+    <title><![CDATA[BKW Hünibach]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 450 m.jpg"
+	thumbURL="thumbs/11.11.2015 450 m.jpg"
+	linkURL="images/11.11.2015 450 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 450 m.JPG">
+    <title><![CDATA[BKW Hünibach]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

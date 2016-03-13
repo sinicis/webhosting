@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ Feb 2015 459.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 459.jpg"
+	linkURL="images/mini_ Feb 2015 459.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Umgebungsarbeiten\5_Parkplatz RSO Oberhofen\mini_ Feb 2015 459.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 460.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 460.jpg"
+	linkURL="images/mini_ Feb 2015 460.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Umgebungsarbeiten\5_Parkplatz RSO Oberhofen\mini_ Feb 2015 460.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 461.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 461.jpg"
+	linkURL="images/mini_ Feb 2015 461.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Umgebungsarbeiten\5_Parkplatz RSO Oberhofen\mini_ Feb 2015 461.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

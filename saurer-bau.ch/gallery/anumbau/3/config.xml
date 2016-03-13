@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ Feb 2015 463.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 463.jpg"
+	linkURL="images/mini_ Feb 2015 463.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ Feb 2015 463.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 462.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 462.jpg"
+	linkURL="images/mini_ Feb 2015 462.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ Feb 2015 462.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 464.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 464.jpg"
+	linkURL="images/mini_ Feb 2015 464.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ Feb 2015 464.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 465.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 465.jpg"
+	linkURL="images/mini_ Feb 2015 465.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ Feb 2015 465.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 874.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 874.jpg"
+	linkURL="images/mini_ 08.01.2015 874.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ 08.01.2015 874.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 875.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 875.jpg"
+	linkURL="images/mini_ 08.01.2015 875.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\3_Umbau Caporale Oberhofen\mini_ 08.01.2015 875.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

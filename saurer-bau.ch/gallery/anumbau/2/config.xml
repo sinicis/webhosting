@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ Feb 2015 447.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 447.jpg"
+	linkURL="images/mini_ Feb 2015 447.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 447.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 448.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 448.jpg"
+	linkURL="images/mini_ Feb 2015 448.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 448.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 449.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 449.jpg"
+	linkURL="images/mini_ Feb 2015 449.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 449.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 441.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 441.jpg"
+	linkURL="images/mini_ Feb 2015 441.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 441.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 443.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 443.jpg"
+	linkURL="images/mini_ Feb 2015 443.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 443.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ Feb 2015 445.jpg"
+	thumbURL="thumbs/mini_ Feb 2015 445.jpg"
+	linkURL="images/mini_ Feb 2015 445.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\saurer-bau\img\Anbau Umbau\2_Garage Boss Gunten\mini_ Feb 2015 445.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

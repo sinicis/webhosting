@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(243,193,171,1)"
+	useThumbDots="true"
+	showThumbsButton="false"
+	showExpandButton="false"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/26_1.jpg"
+	thumbURL="thumbs/26_1.jpg"
+	linkURL="images/26_1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_2.jpg"
+	thumbURL="thumbs/26_2.jpg"
+	linkURL="images/26_2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_5.jpg"
+	thumbURL="thumbs/26_5.jpg"
+	linkURL="images/26_5.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_9.jpg"
+	thumbURL="thumbs/26_9.jpg"
+	linkURL="images/26_9.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_4.jpg"
+	thumbURL="thumbs/26_4.jpg"
+	linkURL="images/26_4.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26_8.jpg"
+	thumbURL="thumbs/26_8.jpg"
+	linkURL="images/26_8.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\26_8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

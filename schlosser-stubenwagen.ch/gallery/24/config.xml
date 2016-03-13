@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(243,193,171,1)"
+	useThumbDots="true"
+	showThumbsButton="false"
+	showExpandButton="false"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/24_1.jpg"
+	thumbURL="thumbs/24_1.jpg"
+	linkURL="images/24_1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\24_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24_2.jpg"
+	thumbURL="thumbs/24_2.jpg"
+	linkURL="images/24_2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\24_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24_3.jpg"
+	thumbURL="thumbs/24_3.jpg"
+	linkURL="images/24_3.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\stubenwagen\24_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

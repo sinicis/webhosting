@@ -1,0 +1,12 @@
+[24-Jan-2014 22:15:28 Europe/Zurich] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/ironsmit/public_html/saurer/functions.php on line 26
+[24-Jan-2014 22:28:43 Europe/Zurich] PHP Parse error:  syntax error, unexpected $end in /home/ironsmit/public_html/saurer/functions.php on line 30
+[24-Jan-2014 23:14:49 Europe/Zurich] PHP Fatal error:  Function name must be a string in /home/ironsmit/public_html/saurer/functions.php on line 33
+[24-Jan-2014 23:14:51 Europe/Zurich] PHP Fatal error:  Function name must be a string in /home/ironsmit/public_html/saurer/functions.php on line 33
+[24-Jan-2014 23:14:53 Europe/Zurich] PHP Fatal error:  Function name must be a string in /home/ironsmit/public_html/saurer/functions.php on line 33
+[24-Jan-2014 23:16:27 Europe/Zurich] PHP Parse error:  syntax error, unexpected '=' in /home/ironsmit/public_html/saurer/index.php on line 33
+[24-Jan-2014 23:17:11 Europe/Zurich] PHP Parse error:  syntax error, unexpected '=' in /home/ironsmit/public_html/saurer/index.php on line 33
+[24-Jan-2014 23:17:11 Europe/Zurich] PHP Parse error:  syntax error, unexpected '=' in /home/ironsmit/public_html/saurer/index.php on line 33
+[24-Jan-2014 23:17:11 Europe/Zurich] PHP Parse error:  syntax error, unexpected '=' in /home/ironsmit/public_html/saurer/index.php on line 33
+[24-Jan-2014 23:17:38 Europe/Zurich] PHP Fatal error:  Function name must be a string in /home/ironsmit/public_html/saurer/functions.php on line 32
+[24-Jan-2014 23:18:11 Europe/Zurich] PHP Parse error:  syntax error, unexpected ',' in /home/ironsmit/public_html/saurer/functions.php on line 32
+[26-Apr-2014 16:04:29 Europe/Zurich] PHP Parse error:  syntax error, unexpected '?', expecting ',' or ')' in /home/ironsmit/public_html/saurer/functions.php on line 17

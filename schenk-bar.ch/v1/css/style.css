@@ -1,0 +1,138 @@
+body {
+ background-color:#A4BAD0;
+ background-color:#000;
+ background-repeat:repeat-x;
+ font-family:Arial;
+ font-size:14.5px;
+ color:#FFF6DC;
+}
+@font-face {
+ font-family:TheSans;
+ src:url(../fonts/TheSans.ttf);
+}
+div.img {
+ width: 40%;
+ min-width: 550px;
+ min-height: 700px;
+ background-image: url('../img/coffee.png');
+ background-size: 100% auto;
+ background-repeat: no-repeat;
+ font-family: TheSans;
+ font-size: 18px;
+ text-align:center;
+ margin: 0 auto 0 auto;
+}
+div.logo {
+ width: 550px;
+ min-height: 140px;
+ font-family: TheSans;
+ font-size: 18px;
+ text-align: center;
+ margin: 10px auto;
+ font-size: 22px;
+ color: #6C8CC7;
+}
+div.text {
+ position: absolute;
+ bottom: 200px;
+ color: #6C8CC7;
+}
+div.footer {
+ min-height: 170px;
+ padding-top: 8px;
+ min-width: 680px;
+ background-color: #6C8CC7;
+ font-family: TheSans;
+ font-size: 18px;
+ text-align:center;
+ position: fixed;
+ bottom: 0;
+ left: 0;
+ right: 0;
+}
+
+table.footer {
+ width: 600px;
+ font-family:TheSans;
+ font-size:15.5px;
+ color: #FFF6DC;
+}
+
+div.ironsmithBox {
+ min-width: 680px;
+ background-color: #FFF6DC;
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ left: 0;
+}
+div.sbKontakt {
+ width: 600px;
+ background-color: #FFF6DC;
+ font-family: TheSans;
+ margin: 0 auto 0 auto;
+ text-align: center;
+ font-size:17px;
+ color: #6C8CC7;
+}
+div.ironsmithLink{
+ height:22px;
+ text-align: right;
+ font-family: TheSans; 
+ font-size:14px;
+ color: #6C8CC7;
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ padding-right: 10px;
+ padding-bottom: 3px;
+}
+
+a:link {
+ text-decoration:none;
+ color:#FFF6DC;
+}
+a:visited {
+ text-decoration:none;
+ color:#FFF6DC;
+}
+a:active {
+ text-decoration:none;
+ color:#FFF6DC;
+}
+a:hover {
+ text-decoration:none;
+ color:#000;
+}
+
+a.outline:link {
+ text-decoration:none;
+ color:#6C8CC7;
+}
+a.outline:visited {
+ text-decoration:none;
+ color:#6C8CC7;
+}
+a.outline:active {
+ text-decoration:none;
+ color:#6C8CC7;
+}
+a.outline:hover {
+ text-decoration:none;
+ color:#6C8CC7;
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+    div.footer {
+		min-height: 190px;
+    }
+	div.img {
+		width: 100%;
+		min-height: 1200px;
+	}
+}

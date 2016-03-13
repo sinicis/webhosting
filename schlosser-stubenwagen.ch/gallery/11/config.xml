@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Stubewage"
+	backgroundColor="rgba(243,193,171,1)"
+	showThumbsButton="false"
+	useThumbDots="true"
+	textColor="rgba(255,255,255,1)"
+	thumbFrameColor="rgba(240,128,128,.5)"
+
+>
+  <image imageURL="images/11_1.JPG"
+	thumbURL="thumbs/11_1.JPG"
+	linkURL="images/11_1.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_1.JPG">
+    <title><![CDATA[Seitenansicht]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_2.JPG"
+	thumbURL="thumbs/11_2.JPG"
+	linkURL="images/11_2.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_2.JPG">
+    <title><![CDATA[Frontansicht]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_3.JPG"
+	thumbURL="thumbs/11_3.JPG"
+	linkURL="images/11_3.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_3.JPG">
+    <title><![CDATA[Nahaufnahme Vorhang]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_4.JPG"
+	thumbURL="thumbs/11_4.JPG"
+	linkURL="images/11_4.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_4.JPG">
+    <title><![CDATA[Nahaufnahme Innenausstattung]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_5.JPG"
+	thumbURL="thumbs/11_5.JPG"
+	linkURL="images/11_5.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_5.JPG">
+    <title><![CDATA[Nahaufnahme Innenausstattung]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_6.JPG"
+	thumbURL="thumbs/11_6.JPG"
+	linkURL="images/11_6.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_6.JPG">
+    <title><![CDATA[Nahaufnahme Innenausstattung]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11_7.JPG"
+	thumbURL="thumbs/11_7.JPG"
+	linkURL="images/11_7.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\isenscsi\Desktop\webdesign\schlosser-stubenwagen.ch\www\img\all\11\11_7.JPG">
+    <title><![CDATA[Nahaufnahme Innenausstattung]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

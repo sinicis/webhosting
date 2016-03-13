@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/Eingangstor Oertli.jpg"
+	thumbURL="thumbs/Eingangstor Oertli.jpg"
+	linkURL="images/Eingangstor Oertli.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Kundendienst\Eingangstor Oertli Gunten\Eingangstor Oertli.jpg">
+    <title><![CDATA[Eingangstor Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/DSC_0498 m.jpg"
+	thumbURL="thumbs/DSC_0498 m.jpg"
+	linkURL="images/DSC_0498 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0498 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0510 m.jpg"
+	thumbURL="thumbs/DSC_0510 m.jpg"
+	linkURL="images/DSC_0510 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0510 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0512 m.jpg"
+	thumbURL="thumbs/DSC_0512 m.jpg"
+	linkURL="images/DSC_0512 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0512 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0515 m.jpg"
+	thumbURL="thumbs/DSC_0515 m.jpg"
+	linkURL="images/DSC_0515 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0515 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0521 m.jpg"
+	thumbURL="thumbs/DSC_0521 m.jpg"
+	linkURL="images/DSC_0521 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0521 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

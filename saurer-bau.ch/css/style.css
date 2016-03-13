@@ -1,0 +1,125 @@
+/* FONTS */
+@font-face {
+ font-family: "Century Gothic";
+  src: url('/home/ironsmit/public_html/media/fonts/CENSCBK.TTF') format('truetype'),
+  src: url('/home/ironsmit/public_html/media/fonts/EOT');
+}
+
+body {
+ background-image:url('../../images/bg/bg.jpg');
+ background-size: 100% 110%;
+ font-family: Century Gothic;
+} 
+
+div.mainWrapper {
+ width: 1110px;
+ height: 840px;
+ border: 1px solid #000;
+ border-radius: 20px;
+ /* Prevent background color leak outs */
+ -webkit-background-clip: padding-box; 
+ -moz-background-clip:    padding;
+  margin:30px auto;
+}
+
+div.wrapper {
+ background-color:#FFF;
+ width: 1100px;
+ height: 830px;
+ border: 5px solid #BEBEBE;
+ border-radius: 20px;
+ /* Prevent background color leak outs */
+ -webkit-background-clip: padding-box; 
+ -moz-background-clip:    padding;
+
+}
+div.header {
+ height: 150px;
+ padding: 30px 0px 45px 0px;
+}
+
+div.menu {
+ font-family: Century Gothic;
+ font-size: 19px;
+ position: absolute;
+ border-top: 30px solid #BEBEBE;
+ border-bottom: 367px solid #BEBEBE;
+ width: 220px;
+ height: 160px;
+ margin: 0px 0px 30px 2px;
+ padding-top: 2px;
+ background-color: #FFF;
+}
+
+div.menupoint {
+ position: relative;
+ background-color: #BEBEBE;
+ border-bottom: 2px solid #FFF;
+ width: 210px;
+ height: 35px;
+ padding-top:5px;
+ padding-left: 10px;
+}
+
+div.menupoint:hover {
+ background-color: #FFDD00;
+ padding-left: 20px;
+ width: 200px; 
+}
+
+div.menupointActive {
+ position: relative;
+ border-bottom: 2px solid #FFF;
+ background-color: #FFDD00;
+ width: 200px; 
+ height: 35px;
+ padding-left: 20px;
+ padding-top: 5px;
+}
+
+div.content {
+ font-size: 18px;
+ position: absolute;
+ overflow: auto;
+ background-color: #FFF;
+ border-top: 2px solid #BEBEBE;
+ border-bottom: 2px solid #BEBEBE;
+ width: 814px;
+ height: 535px;
+ margin: 0px 15px 0px 240px;
+ padding-top: 20px;
+}
+
+div.footer {
+ position: absolute;
+ background-color:#FFF;
+ width:700px;
+ height: 35px;
+ margin: 570px 50px 0px 50px;
+ text-align: center;
+}
+
+a:link {
+ color: #000;
+ text-decoration: none;
+}
+a:visited {
+ color: #000;
+ font-decoration: none;
+}
+a:hover {
+ 
+}
+
+/* HEADLINES */
+h3 {
+ font-size: 17px;
+ text-decoration: none;
+}
+
+
+
+
+
+
+

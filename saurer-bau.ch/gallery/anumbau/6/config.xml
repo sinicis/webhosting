@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ 04.12.2014 025.jpg"
+	thumbURL="thumbs/mini_ 04.12.2014 025.jpg"
+	linkURL="images/mini_ 04.12.2014 025.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\6_Umbau MFH Huenibach\mini_ 04.12.2014 025.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 04.12.2014 026.jpg"
+	thumbURL="thumbs/mini_ 04.12.2014 026.jpg"
+	linkURL="images/mini_ 04.12.2014 026.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\6_Umbau MFH Huenibach\mini_ 04.12.2014 026.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 04.12.2014 028.jpg"
+	thumbURL="thumbs/mini_ 04.12.2014 028.jpg"
+	linkURL="images/mini_ 04.12.2014 028.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\6_Umbau MFH Huenibach\mini_ 04.12.2014 028.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 04.12.2014 029.jpg"
+	thumbURL="thumbs/mini_ 04.12.2014 029.jpg"
+	linkURL="images/mini_ 04.12.2014 029.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Anbau Umbau\6_Umbau MFH Huenibach\mini_ 04.12.2014 029.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

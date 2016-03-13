@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/11.11.2015 1827 m.jpg"
+	thumbURL="thumbs/11.11.2015 1827 m.jpg"
+	linkURL="images/11.11.2015 1827 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1827 m.JPG">
+    <title><![CDATA[Sanierung Löffler-Jurkovic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1828 m.jpg"
+	thumbURL="thumbs/11.11.2015 1828 m.jpg"
+	linkURL="images/11.11.2015 1828 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1828 m.JPG">
+    <title><![CDATA[Sanierung Löffler-Jurkovic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1811 m.jpg"
+	thumbURL="thumbs/11.11.2015 1811 m.jpg"
+	linkURL="images/11.11.2015 1811 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1811 m.jpg">
+    <title><![CDATA[Sanierung Löffler-Jurkovic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1817 m.jpg"
+	thumbURL="thumbs/11.11.2015 1817 m.jpg"
+	linkURL="images/11.11.2015 1817 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1817 m.JPG">
+    <title><![CDATA[Sanierung Löffler-Jurkovic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 1818 m.jpg"
+	thumbURL="thumbs/11.11.2015 1818 m.jpg"
+	linkURL="images/11.11.2015 1818 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 1818 m.JPG">
+    <title><![CDATA[Sanierung Löffler-Jurkovic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
