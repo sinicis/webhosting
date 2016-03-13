@@ -1,0 +1,11 @@
+[02-Jun-2014 19:35:19 UTC] PHP Parse error:  syntax error, unexpected ''Nutte'' (T_CONSTANT_ENCAPSED_STRING) in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 2
+[03-Jun-2014 14:46:04 UTC] PHP Parse error:  syntax error, unexpected '^' in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 3
+[03-Jun-2014 14:46:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 28
+[03-Jun-2014 14:47:41 UTC] PHP Parse error:  syntax error, unexpected '"<td><input type='text' name='' (T_CONSTANT_ENCAPSED_STRING) in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 35
+[03-Jun-2014 14:48:52 UTC] PHP Parse error:  syntax error, unexpected '"<td>"' (T_CONSTANT_ENCAPSED_STRING) in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 35
+[03-Jun-2014 14:50:11 UTC] PHP Parse error:  syntax error, unexpected '"<td>"' (T_CONSTANT_ENCAPSED_STRING) in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 35
+[03-Jun-2014 15:01:15 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 57
+[04-Jun-2014 13:59:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 85
+[04-Jun-2014 14:01:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 230
+[04-Jun-2014 16:13:10 UTC] PHP Parse error:  syntax error, unexpected 'error' (T_STRING), expecting ',' or ';' in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 122
+[04-Jun-2014 16:40:48 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ironsmit/public_html/stella/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 116

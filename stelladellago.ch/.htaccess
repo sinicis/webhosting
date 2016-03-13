@@ -1,0 +1,10 @@
+
+RewriteEngine on
+
+# BEGIN WordPress
+
+# END WordPress
+RewriteCond %{HTTP_HOST} ^stelladellago\.ch$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.stelladellago\.ch$
+RewriteRule ^admin$ "http\:\/\/stelladellago\.ch\/wp\-login\.php" [R=301,L]
+
