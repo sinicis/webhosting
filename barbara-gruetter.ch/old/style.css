@@ -1,0 +1,134 @@
+body {
+ background-color:#d1bca7;
+ background-image:url('images/bg/d1bca7.png');
+ background-repeat:repeat-x;
+ font-family:Arial;
+ font-size:15px;
+ color:#990000;
+}
+@font-face {
+ font-family:Century;
+ src:url(fonts/century-gothic.ttf);
+}
+div.top {
+ width:860px;
+ height:80px;
+ margin-top:30px;
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border-bottom:solid 2pt red;
+}
+div.all {
+ background-image:url('images/all.png');
+ padding:15px;
+ width:830px;
+ margin-left:auto;
+ margin-right:auto;
+ margin-top:10px; 
+}
+
+div.menu {
+ width:830px;
+ height:100%;
+ padding-top:20px;
+ margin-left:auto;
+ margin-right:auto;
+ background-image:url('images/1px.png');
+}
+div.front {
+ width:830px;
+ min-height:500px;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+div.text{
+ width:780px;
+ min-height:350px;
+ padding:25px;
+ padding-top:40px;
+ margin-left:auto;
+ margin-right:auto;
+ background-image:url('images/1px.png');
+}
+div.footer {
+ width:860px;
+ height:40px;
+ margin-top:10px;
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border-top:solid 2pt red;
+}
+div.goto {
+ width:800px;
+ height:35px;
+ padding-right:15px;
+ padding-left:15px;
+ padding-bottom:15px;
+ margin-left:auto;
+ margin-right:auto;
+ background-image:url('images/1px.png');
+}
+
+img {
+ float: left;
+ border:0;
+}
+h1 {
+ font-family:Century;
+ text-decoration:bold;
+ font-size:60px;
+ color:red;
+}
+h2 {
+ font-family:Century;
+ font-size:20px;
+ color:red;
+}
+h3 {
+ font-family:Century;
+ font-size:16px;
+ color:red;
+}
+p {
+ font-family:Century;
+ font-size:15px;
+ color:#FFF;
+}
+table {
+ font-family:Century;
+ font-size:15px;
+ color:#FFF;
+}
+tr.top {
+ font-family:Century;
+ font-size:18px;
+ color:red;
+ height:25px;
+}
+td.img {
+ float:top;
+}
+li {
+ color:#FFF;
+ font-family:Century;
+ font-size:15px;													
+}
+a:link {
+ text-decoration:none;
+ color:#FFF;
+}
+a:visited {
+ text-decoration:none;
+ color:#FFF;
+}
+a:active {
+ text-decoration:none;
+ color:#FFF;
+}
+a:hover {
+ text-decoration:none;
+ color:red;
+}

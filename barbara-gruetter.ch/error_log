@@ -1,0 +1,15 @@
+[01-May-2014 15:32:12 Europe/Zurich] PHP Parse error:  syntax error, unexpected '{' in /home/ironsmit/public_html/barbara-gruetter/index.php on line 22
+[01-May-2014 15:32:23 Europe/Zurich] PHP Parse error:  syntax error, unexpected '<' in /home/ironsmit/public_html/barbara-gruetter/index.php on line 23
+[01-May-2014 15:32:40 Europe/Zurich] PHP Fatal error:  Call to undefined function displayPage() in /home/ironsmit/public_html/barbara-gruetter/index.php on line 26
+[01-May-2014 15:34:50 Europe/Zurich] PHP Fatal error:  Call to undefined function displayPage() in /home/ironsmit/public_html/barbara-gruetter/index.php on line 26
+[01-May-2014 15:34:52 Europe/Zurich] PHP Fatal error:  Call to undefined function displayPage() in /home/ironsmit/public_html/barbara-gruetter/index.php on line 26
+[01-May-2014 15:42:49 Europe/Zurich] PHP Fatal error:  Cannot redeclare displayMenuPoint() (previously declared in /home/ironsmit/public_html/barbara-gruetter/functions.php:3) in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 11
+[01-May-2014 16:03:12 Europe/Zurich] PHP Fatal error:  Cannot redeclare displayMenuPoint() (previously declared in /home/ironsmit/public_html/barbara-gruetter/functions.php:3) in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 11
+[01-May-2014 16:04:24 Europe/Zurich] PHP Fatal error:  Cannot redeclare displayMenuPoint() (previously declared in /home/ironsmit/public_html/barbara-gruetter/functions.php:3) in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 11
+[01-May-2014 16:04:34 Europe/Zurich] PHP Fatal error:  Cannot redeclare displayMenuPoint() (previously declared in /home/ironsmit/public_html/barbara-gruetter/functions.php:3) in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 11
+[01-May-2014 16:08:27 Europe/Zurich] PHP Parse error:  syntax error, unexpected ',' in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 30
+[01-May-2014 16:21:08 Europe/Zurich] PHP Parse error:  syntax error, unexpected '?' in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 6
+[01-May-2014 18:20:18 Europe/Zurich] PHP Parse error:  syntax error, unexpected '?' in /home/ironsmit/public_html/barbara-gruetter/includes/error.php on line 5
+[13-May-2014 13:03:41 Europe/Zurich] PHP Parse error:  syntax error, unexpected ')' in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 83
+[13-May-2014 13:03:56 Europe/Zurich] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 85
+[29-May-2014 18:30:47 Europe/Zurich] PHP Parse error:  syntax error, unexpected 'Top' (T_STRING) in /home/ironsmit/public_html/barbara-gruetter/functions.php on line 97

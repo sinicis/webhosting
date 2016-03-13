@@ -1,0 +1,111 @@
+body {
+ background-color:#a1a1a1;
+ background-image:url('images/bg.gif');
+ background-repeat:repeat-x;
+ font-family:Arial;
+ font-size:15px;
+ color:#990000;
+}
+@font-face {
+ font-family:Century;
+ src:url(fonts/century-gothic.ttf);
+}
+div.top {
+ width:860px;
+ height:80px;
+ margin-top:70px;
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border-bottom:solid 2pt red;
+}
+div.all {
+ background-image:url('images/all.png');
+ padding:15px;
+ width:830px;
+ margin-left:auto;
+ margin-right:auto;
+ margin-top:10px; 
+}
+div.btw {
+ background-color:#FFF;
+ padding:15px;
+ width:800px;
+ margin-left:auto;
+ margin-right:auto; 
+}
+div.menu {
+ width:800px;
+ height:100%;
+ margin-left:auto;
+ margin-right:auto;
+}
+div.front {
+ width:800px;
+ min-height:500px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color:#FFF;
+}
+
+div.text{
+ width:770px;
+ min-height:350px;
+ padding:15px;
+ padding-top:40px;
+ margin-left:auto;
+ margin-right:auto;
+}
+div.footer {
+ width:860px;
+ height:40px;
+ margin-top:10px;
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border-top:solid 2pt red;
+}
+div.goto {
+ width:800px;
+ height:35px;
+ padding-right:15px;
+ padding-left:15px;
+ padding-bottom:15px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color:#FFF;
+}
+
+img {
+ float: left;
+ border:0;
+}
+h1 {
+ font-family:Century;
+ text-decoration:bold;
+ font-size:60px;
+ color:red;
+}
+h2 {
+ font-family:Arial;
+ font-size:18px;
+ color:green;
+}
+h3 {
+ font-family:Century;
+ font-size:16px;
+ color:red;
+}
+p {
+ font-family:Arial;
+ font-size:15px;
+ color:green;
+}
+table {
+ font-family:Arial;
+ font-size:15px;
+ color:green;
+}
+li {
+ color:green;
+}
